@@ -32,7 +32,7 @@ version.filename = %(source.dir)s/main.py
 # version = 1.2.0
 
 # (list) Application requirements
-requirements = kivy,python3,gtts,pydub,SpeechRecognition,strsimpy,playsound
+requirements = python3,kivy,gtts,pydub,SpeechRecognition,strsimpy,playsound
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
